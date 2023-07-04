@@ -1,5 +1,5 @@
 # Pasqalup
-Also known as **LUZH**
+Also known as **LUZH** <br />
 I am a programmer & Music producer
 ## Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
